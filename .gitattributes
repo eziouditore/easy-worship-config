@@ -1,0 +1,12 @@
+public/** linguist-vendored   
+
+*.jpg binary
+* text=auto eol=lf
+*.png binary
+package-lock.json linguist-generated
+
+*.woff binary
+build/* linguist-vendored
+
+*.astro linguist-detectable
+# eof 20204d8f
